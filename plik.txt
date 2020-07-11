@@ -1,1 +1,3 @@
 Ala ma kota i rybki. i testing
+
+zmiana -wprowadzenie do git
